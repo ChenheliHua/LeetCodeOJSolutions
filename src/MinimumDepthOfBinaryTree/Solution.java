@@ -5,7 +5,7 @@ import etc.TreeNode;
 /**
  * Author: Chenheli Hua
  * Email: huachenheli@outlook.com
- * Date: 10/10/2014
+ * Date: 10/11/2014
  */
 public class Solution
 {
