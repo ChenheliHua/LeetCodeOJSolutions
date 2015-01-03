@@ -12,15 +12,15 @@ public class Solution
     int curr = num[0];
     int vote = 1;
 
-    for (int i=0;i<num.length;i++)
+    for (int i = 0; i < num.length; i++)
     {
       if (curr == num[i])
       {
-        vote ++;
+        vote++;
       }
       else
       {
-        vote --;
+        vote--;
 
         if (vote == 0)
         {
